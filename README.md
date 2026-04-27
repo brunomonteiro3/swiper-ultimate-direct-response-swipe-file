@@ -12,7 +12,6 @@ Estruturado como mapa de estudo. Conectado ao acervo do [Swiper](https://swiper.
 
 [![Stars](https://img.shields.io/github/stars/brunomonteiro3/swiper-ultimate-direct-response-swipe-file?style=flat-square&color=FFD700&label=⭐%20stars)](https://github.com/brunomonteiro3/swiper-ultimate-direct-response-swipe-file/stargazers)
 [![Forks](https://img.shields.io/github/forks/brunomonteiro3/swiper-ultimate-direct-response-swipe-file?style=flat-square&color=silver)](https://github.com/brunomonteiro3/swiper-ultimate-direct-response-swipe-file/network/members)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/brunomonteiro3/swiper-ultimate-direct-response-swipe-file/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-blue?style=flat-square)](LICENSE)
 [![Swiper](https://img.shields.io/badge/acervo-Swiper.com.br-black?style=flat-square)](https://swiper.com.br)
 
@@ -173,32 +172,15 @@ Reúne **centenas de anúncios, e-mails, landing pages e VSLs** analisados e com
 
 ---
 
-## 👤 Sobre o autor
+## 👤 Sobre mim
 
-<table>
-<tr>
-<td>
+Sou **Bruno Monteiro**, fundador do [Swiper](https://swiper.com.br) — a plataforma de referência de direct response e copywriting em português.
 
-**Bruno Monteiro** é fundador do [Swiper](https://swiper.com.br), a plataforma de referência de direct response e copywriting em português. Copywriter com anos de experiência em campanhas de resposta direta no Brasil e no mercado americano, Bruno criou o Swiper para colocar nas mãos de qualquer pessoa o acervo que gostaria de ter tido quando começou.
+Trabalho com campanhas de resposta direta há anos, no Brasil e no mercado americano. Criei o Swiper porque queria ter um lugar onde qualquer pessoa pudesse estudar copy de verdade — com exemplos reais, analisados, organizados por formato e nicho.
 
-Este repositório é uma extensão desse trabalho — um guia de estudos estruturado que conecta princípios de direct response a exemplos reais, com links diretos para o acervo do Swiper.
-
-</td>
-</tr>
-</table>
+Este repositório é uma extensão desse trabalho. Aqui reúno os princípios que aplico nas campanhas, conectados diretamente ao acervo do Swiper para que você possa ir da teoria ao exemplo com um clique.
 
 → [Swiper.com.br](https://swiper.com.br) · [Vídeos e análises](https://swiper.com.br/video/) · [Newsletter](https://swiper.com.br/categoria/newsletters/)
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas. Se encontrar algo incorreto, desatualizado ou quiser adicionar um exemplo ou seção:
-
-1. Faça um fork
-2. Crie sua branch: `git checkout -b minha-contribuicao`
-3. Commit: `git commit -m 'Adiciona [o que você adicionou]'`
-4. Push e abra um Pull Request
 
 ---
 
