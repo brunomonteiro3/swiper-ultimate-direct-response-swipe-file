@@ -69,6 +69,26 @@ Ogilvy acreditava que propaganda boa não é propaganda que força atenção —
 
 ---
 
+## Swipe File no Swiper
+
+Anúncios reais de David Ogilvy disponíveis para análise no Swiper:
+
+**Anúncios:**
+- [A 96 quilômetros por hora, o ruído mais alto neste novo Rolls-Royce vem do relógio elétrico](https://swiper.com.br/item/2031-rolls-royce/) — a headline de 18 palavras mais estudada da história da publicidade
+- [O segredo mais mal guardado da história dos carros Rolls-Royce](https://swiper.com.br/item/2618-segredo-mal-guardado-rolls-royce/) — segundo anúncio do Rolls-Royce: variação do posicionamento de silêncio e engenharia
+- [O Homem na Camisa Hathaway](https://swiper.com.br/item/3004-o-homem-na-camisa-hathaway/) — personagem recorrente criando identidade de marca sem perder o copy de venda
+- [DOVE faz os outros sabonetes parecerem obsoletos!](https://swiper.com.br/item/dove-faz-os-outros-sabonetes-parecerem-obsoletos/) — pre-emptive claim moderno: afirmar superioridade com dado concreto (¼ de creme hidratante)
+- [Como Mulheres Com Mais De 35 Anos Podem Parecer Mais Jovens!](https://swiper.com.br/item/3207-35-anos-mais-jovens/) — segmentação por idade como qualificador e benefício
+- [Como Tirar Manchas… Use Rinso e Siga Estas Instruções Fáceis](https://swiper.com.br/item/4077-como-tirar-manchas/) — copy de produto com demonstração prática como argumento
+
+**Análises:**
+- [Rolls-Royce: Os Segredos Da Famosa Campanha Por David Ogilvy](https://swiper.com.br/2626-david-ogilvy-rolls-royce/) — a história por trás do anúncio mais famoso de Ogilvy
+- [Como Ogilvy Construiu Uma Marca Nacional Do Dia Para Noite Com US$1,50](https://swiper.com.br/como-ogilvy-marca-nacional-do-dia-para-noite/) — o caso prático de posicionamento via copy direto
+
+→ [Ver todos os anúncios de David Ogilvy no Swiper](https://swiper.com.br/autor/david-ogilvy/)
+
+---
+
 ## Obras para estudar
 
 **Confessions of an Advertising Man (1963)** — mais narrativo; visão de negócio e postura profissional. Onde Ogilvy conta como construiu a agência e o que aprendeu no processo.

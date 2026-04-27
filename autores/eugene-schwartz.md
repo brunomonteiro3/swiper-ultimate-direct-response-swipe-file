@@ -10,7 +10,13 @@
 
 ## Quem foi
 
-Eugene Schwartz escreveu alguns dos anúncios de maior resposta da história americana — em nichos como saúde, finanças e auto-ajuda. Foi também colecionador de arte e palestrante cult em eventos de copywriters. Sua obra principal, *Breakthrough Advertising*, ficou fora de catálogo por décadas e chegou a ser vendida por centenas de dólares em sebos. Hoje é o texto de referência obrigatório em qualquer formação séria de copy.
+Eugene Schwartz participou de cerca de 17 negócios diferentes ao longo da carreira — como fundador, parceiro ou consultor. Cobrava o equivalente a US$50.000 por anúncio. A campanha do livro *Natural Healing* gerou mais de US$20 milhões. Negociava seus serviços de copy por acesso a listas de mailing, e depois usava essas listas para vender seus próprios livros — uma estratégia de distribuição que hoje chamamos de media buy.
+
+Além de copywriter, era cientista amador, colecionador de arte, e autor de livros sobre aprendizado acelerado. Essa variedade era intencional: Schwartz acreditava que entender como diferentes tipos de pessoas pensam e desejam era o que tornava o copy preciso.
+
+Em 1978, sofreu um problema de saúde que comprometeu o movimento do braço. Continuou trabalhando como consultor para a Boardroom Inc. — a editora que publicou *Breakthrough Advertising* e com quem trabalhou por décadas.
+
+A história de como a Boardroom o contratou é reveladora: Martin, o fundador, estava quase falindo e aceitou pagar US$2.500 pelo primeiro anúncio — uma fortuna na época. Schwartz então marcou um almoço, fez perguntas, ouviu. Depois declarou: **"70% do anúncio veio da conversa."** Ele dizia que escrevia com os ouvidos — e não com as mãos.
 
 → [Leia o perfil completo de Schwartz no Swiper](https://swiper.com.br/perfil/eugene-schwartz-o-mestre-por-tras-dos-5-niveis-de-consciencia/) — quem foi, como pensava, os anúncios que escreveu.
 
@@ -70,11 +76,60 @@ Isso muda como você pesquisa. Em vez de perguntar "o que meu produto faz?", voc
 
 ---
 
-### 4. Breakthrough — A Big Idea que abre mercado
+### 4. Demanda versus Mercado — a distinção que muda tudo
+
+Schwartz diferenciava dois conceitos que muitos tratam como sinônimos:
+
+**Demanda** é o desejo latente do ser humano — universal, permanente, difícil de criar ou destruir. Pessoas querem emagrecer, ganhar dinheiro, ser amadas, ter saúde, ser aceitas socialmente. Essas demandas existem desde sempre e raramente mudam — só se amplificam por fatores externos muito grandes (pandemia, crise econômica, nova tecnologia).
+
+**Mercado** é como um grupo específico satisfaz essa demanda. Mercados são criados facilmente, evoluem, se fundem, morrem e renascem. No nicho de emagrecimento: mercado de low carb, de suplementos, de jejum intermitente, de exercício em casa. Cada um desses é um mercado diferente explorando a mesma demanda.
+
+**Por que isso importa para o copywriter:** Você não cria desejo — você encontra onde o desejo já existe e constrói um mercado em volta dele. Copy que tenta criar demanda do zero quase sempre falha. Copy que captura demanda existente e a direciona para um produto específico converte.
+
+---
+
+### 5. Copywriters são criadores de mercado — a metáfora dos ratos
+
+Schwartz tinha uma forma provocativa de explicar o que diferencia copy mediano de copy que escala:
+
+**Copy mediano** constrói ratoeiras melhores. Vai para o mercado e melhora o que já existe: "o melhor suplemento", "o método mais fácil", "a dieta mais eficiente".
+
+**Copy com breakthrough** cria ratos maiores — e depois cria medo intenso desses ratos. Em vez de oferecer uma solução melhor para o problema existente, o copywriter redefine o problema de uma forma que o produto se torna inevitável.
+
+**Exemplo concreto:** Um produto de postura corporal poderia ir pelo caminho óbvio: "Corrija sua postura com exercícios simples". Em vez disso, um copywriter que entende Schwartz vai perguntar: qual é o desejo por baixo da postura? Confiança. Aceitação. Atração. Aí a abordagem muda completamente:
+
+> *"Sua postura decide se você vai ser ignorado ou desejado antes mesmo de abrir a boca."*
+
+O problema não é mais postura — é rejeição social. O produto não é mais um exercício — é uma solução para um medo existencial. Isso é criar um rato maior.
+
+→ [Análise do *Breakthrough Advertising* no Swiper — Bruno Monteiro explica esse conceito com exemplos de 2026](https://swiper.com.br/video/breakthrough-advertising-parte-1/)
+
+---
+
+### 6. Breakthrough — A Big Idea que abre mercado
 
 Uma Big Idea não é um slogan. É uma afirmação que conecta o produto a um desejo massivo, parece nova — mesmo que o produto não seja — e cria uma moldura que só o seu produto preenche.
 
-Schwartz chamou de *breakthrough* o momento em que copy consegue reposicionar um produto de forma que o mercado nunca mais vê a categoria da mesma forma.
+Schwartz chamou de *breakthrough* o momento em que copy consegue reposicionar um produto de forma que o mercado nunca mais vê a categoria da mesma forma. Breakthrough não é criatividade pela criatividade — é a convergência entre um desejo massivo e uma ideia que ninguém havia expressado daquela forma.
+
+---
+
+## Swipe File no Swiper
+
+Anúncios reais de Eugene Schwartz disponíveis para análise no Swiper — estude o copy antes de estudar a teoria:
+
+**Anúncios:**
+- [Jogue Fora O Seu Travesseiro](https://swiper.com.br/item/2471-travesseiro-eugene-schwartz/) — copy longo com mecanismo único e promessa de transformação
+- [O Milagre Britânico Que Cria Super Plantas](https://swiper.com.br/item/2010-milagre-britanico/) — Schwartz aplicando sofisticação de mercado no nicho de jardinagem
+- ["Estou 61 Libras Mais Leve... E Não Tenho Um Minuto De Fome"](https://swiper.com.br/item/3299-libras/) — anúncio de emagrecimento, nível de consciência 4
+- [Você É Duas Vezes Mais Inteligente Do Que Pensa!](https://swiper.com.br/item/3369-mais-inteligente/) — Mass Desire aplicado ao desejo de desenvolvimento intelectual
+- [Vale A Pena Pagar $2 Para Banir Essa Celulite Feia Para Sempre?](https://swiper.com.br/item/6218-celulite/) — pergunta de headline que captura o nível 4 de consciência
+
+**Vídeos e análises:**
+- [13 Coisas Que Aprendi Com Eugene Schwartz Em 60 Minutos](https://swiper.com.br/video/4470-eugene/) — síntese prática do pensamento de Schwartz em vídeo
+- [O Exercício De Eugene Schwartz Para Criar Headlines Matadoras](https://swiper.com.br/3290-exercicio-eugene-schwartz/) — a técnica que ele ensinava em palestras
+
+→ [Ver todos os anúncios de Eugene Schwartz no Swiper](https://swiper.com.br/autor/eugene-schwartz/)
 
 ---
 

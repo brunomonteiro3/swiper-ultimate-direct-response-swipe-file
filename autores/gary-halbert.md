@@ -86,6 +86,27 @@ O Coat of Arms Letter é o ponto de partida obrigatório — a carta de venda ma
 
 ---
 
+## Swipe File no Swiper
+
+Anúncios e conteúdo de Gary Halbert disponíveis para análise no Swiper:
+
+**Anúncios:**
+- [Você sabia que seu nome de família foi registrado com um brasão em antigos arquivos?](https://swiper.com.br/item/2321-coat-of-arms-gary-halbert/) — o Coat of Arms Letter: 600+ milhões de envios, o mailing mais distribuído da história
+- [Como Conseguir O Que O Governo Dos EUA Deve A Você!](https://swiper.com.br/item/2333-governo-eua-gary-halbert/) — urgência real + interesse próprio + autoridade implícita do governo
+- [Como ganhar dinheiro com seus cartões de crédito](https://swiper.com.br/item/2288-cartao-gary-halbert/) — promessa financeira com especificidade tática
+- [A Sra. Borgnine vai distribuir 100.000 amostras grátis do seu novo perfume](https://swiper.com.br/item/2998-perfume-seguro-em-publico/) — amostra grátis como mecanismo de conversão + celebridade
+- [Como se livrar de fortes dores nas costas...](https://swiper.com.br/item/4327-costas/) — copy de saúde com promessa de alívio imediato
+- [O Incrível Segredo De Saúde Da Pessoa Mais Velha Do Mundo!](https://swiper.com.br/item/5442-pessoa-mais-velha/) — curiosidade + autoridade via idade extrema
+- [Empresário Generoso e Criativo Quer Encontrar Uma Mulher Gostosa e Sexy Com Um Bom Senso De Humor](https://swiper.com.br/item/5714-empresario-generoso/) — o anúncio pessoal de Halbert: tom de voz e personalidade como ferramenta de venda
+
+**Vídeos e análises:**
+- [Gary Halbert: Os Segredos Do Marketing Direto — Palestra Legendada](https://swiper.com.br/video/3852-gary-halbert-palestra/) — Halbert ao vivo, ensinando os princípios que usava nas campanhas
+- [Como Gary Halbert fez 7000 pessoas desejarem um perfume — análise](https://swiper.com.br/2294-gary-halbert-perfume-tova/) — o caso do perfume Tova destrinchado
+
+→ [Ver todos os anúncios de Gary Halbert no Swiper](https://swiper.com.br/autor/gary-halbert/)
+
+---
+
 ## *The Boron Letters*
 
 As cartas escritas para o filho Bond cobrem: como pesquisar um mercado, como estruturar uma carta de venda, como pensar sobre copy no nível estratégico, e filosofia de vida de um copywriter. Domínio público online — buscar "The Boron Letters Gary Halbert PDF".

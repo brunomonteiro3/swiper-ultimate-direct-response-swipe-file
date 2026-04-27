@@ -74,6 +74,22 @@ Schwab observou que afirmações vagas criam desconfiança, enquanto afirmaçõe
 
 ---
 
+## Swipe File no Swiper
+
+Anúncios reais de Victor Schwab disponíveis para análise no Swiper:
+
+**Anúncios:**
+- [Como fazer amigos e influenciar pessoas](https://swiper.com.br/item/como-fazer-amigos-e-influenciar-pessoas/) — o copy que Schwab escreveu para o livro de Dale Carnegie: título, subtítulos dos capítulos e toda a estrutura de venda foram criados por Schwab, não por Carnegie
+- [Como Eu Fiz $100,000 Com Uma Ideia "Idiota"](https://swiper.com.br/item/como-eu-fiz-100000-com-uma-ideia-idiota/) — headline que combina curiosidade, especificidade e credibilidade via confissão
+- [Me Dê As Suas... E Eles Vão Gostar De Você](https://swiper.com.br/item/3503-gostarem-de-voce/) — apelo ao desejo de aprovação social com promessa de transformação
+
+**Análise:**
+- [As 100 Melhores Headlines da História, segundo Victor Schwab](https://swiper.com.br/especial/as-100-melhores-headlines-segundo-victor-schwab/) — todas as 100 headlines com o comentário de Schwab sobre por que cada uma funciona
+
+→ [Ver todos os anúncios de Victor Schwab no Swiper](https://swiper.com.br/autor/victor-schwab/)
+
+---
+
 ## Obras para estudar
 
 **How to Write a Good Advertisement (1962)** — o mais completo e prático dos manuais clássicos. Inclui análise de anúncios reais com comentário sobre o que funciona e por quê. Excelente ponto de entrada para quem está começando a estudar direct response.

@@ -65,6 +65,24 @@ Hopkins escrevia como se estivesse conversando com uma pessoa específica. Propa
 
 ---
 
+## Swipe File no Swiper
+
+Anúncios reais de Claude Hopkins disponíveis para análise no Swiper:
+
+**Anúncios:**
+- [Amostra Para Acabar Com Os Erros Ao Se Barbear](https://swiper.com.br/item/15-amostra-erros-barbear/) — pre-emptive claim clássico: afirmar o processo de qualidade antes do concorrente
+- [Novas Lições Para Barbear](https://swiper.com.br/item/novas-licoes-para-barbear/) — o mesmo princípio aplicado à categoria de barbear, que Hopkins trabalhou extensivamente
+- [Se Eu Estiver Certo, Você Paga $5,50](https://swiper.com.br/item/se-eu-estiver-certo-voce-paga-550/) — oferta de teste que transfere o risco para o vendedor
+- [Preste Atenção Nos Dentes Bonitos](https://swiper.com.br/item/3212-dentes-bonitos/) — o anúncio do Pepsodent: como Hopkins criou o hábito de escovar os dentes
+- [Experimente... Rivais Também](https://swiper.com.br/item/4191-experimente-rivais-tambem/) — confiança no produto como argumento de venda
+
+**Análise:**
+- [Como Claude Hopkins Criou Um Novo Hábito Usando Copywriting](https://swiper.com.br/3213-claude-hopkins-pepsodent/) — destrinchando a campanha do Pepsodent linha por linha
+
+→ [Ver todos os anúncios de Claude Hopkins no Swiper](https://swiper.com.br/autor/claude-hopkins/)
+
+---
+
 ## Obras para estudar
 
 **Scientific Advertising (1923)** — domínio público, disponível gratuitamente online. O livro que Ogilvy mandava todo trainee ler sete vezes. Denso, curto, sem desperdício.

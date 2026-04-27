@@ -78,6 +78,27 @@ Caples recomendava começar pelo argumento mais forte. Muitos copywriters "guard
 
 ---
 
+## Swipe File no Swiper
+
+Anúncios reais de John Caples disponíveis para análise no Swiper:
+
+**Anúncios:**
+- [Eles riram de mim quando sentei para tocar o piano, mas quando eu comecei a tocar…](https://swiper.com.br/item/1846-eles-riram-de-mim/) — o anúncio mais famoso de Caples: curiosidade + virada emocional + identificação
+- [Eles Riram Quando O Garçom Falou Comigo Em Francês](https://swiper.com.br/item/2652-garcom-frances-john-caples/) — variação do mesmo mecanismo aplicado ao aprendizado de idiomas
+- [Foi O Maior Choque Da Minha Vida Ouvi-la Tocar](https://swiper.com.br/item/3201-choque/) — terceira variação do hook da transformação surpreendente via música
+- [Como nos aposentamos em 15 anos com $300 por mês](https://swiper.com.br/item/2706-como-aposentamos/) — interesse próprio direto com especificidade máxima
+- [Como Uma Gafe Me Tornou Popular](https://swiper.com.br/item/2711-gafe-popular/) — virada emocional: transformar fraqueza em vantagem
+- [Me Dê 5 Dias E Eu Lhe Darei Uma Personalidade Magnética](https://swiper.com.br/item/2767-personalidade-magnetica-john-caples/) — promessa de transformação com prazo específico
+- [Para Homens Que Querem Parar de Trabalhar Um Dia](https://swiper.com.br/item/4503-parar-de-trabalhar/) — segmentação precisa como headline
+- [Você Está Velho Demais Para Estudar Música?](https://swiper.com.br/item/5335-velho/) — pergunta que qualifica e invalida objeção ao mesmo tempo
+
+**Análise:**
+- [O segundo anúncio mais famoso de todos os tempos](https://swiper.com.br/o-segundo-anuncio-mais-famoso-de-todos-os-tempos/) — destrinchando o anúncio do piano com contexto histórico
+
+→ [Ver todos os anúncios de John Caples no Swiper](https://swiper.com.br/autor/john-caples/)
+
+---
+
 ## Obras para estudar
 
 **Tested Advertising Methods (1932)** — revisado múltiplas vezes até os anos 1970. A referência mais completa sobre headlines e estrutura de copy direto. Caples documenta testes reais com resultados reais.

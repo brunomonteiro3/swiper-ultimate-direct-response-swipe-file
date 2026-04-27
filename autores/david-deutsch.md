@@ -83,6 +83,21 @@ Assim como Hopkins e Halbert, Deutsch é radical sobre pesquisa antes de escreve
 
 ---
 
+## Swipe File no Swiper
+
+Anúncios e conteúdo de David Deutsch disponíveis no Swiper:
+
+**Anúncios:**
+- [Novo Vídeo GRATUITO Revela Como Um Copywriter De Bilhões De Dólares Surge Com Big Ideas](https://swiper.com.br/item/novo-video-gratuito-revela-como-um-copywriter-de-bilhoes-de-dolares-surge-com-big-ideas/) — o próprio Deutsch usando Big Promise para vender seu método
+- [Método Leapfrog — A Maneira Mais Rápida de Melhorar Seu Copy em 10 Vezes](https://swiper.com.br/item/metodo-leapfrog/) — mecanismo único com nome proprietário, estrutura clássica de Deutsch
+
+**Vídeo:**
+- [David Deutsch: Como Transformar Copy Chato em História que Vende](https://swiper.com.br/video/segredos-da-escala-david-deustch/) — Deutsch ao vivo explicando como copy de escala é construído
+
+→ [Ver todos os anúncios de David Deutsch no Swiper](https://swiper.com.br/autor/david-deutsch/)
+
+---
+
 ## Para aprofundar
 
 → [Acervo de anúncios de David Deutsch no Swiper](https://swiper.com.br/autor/david-deutsch/) — estude o copy real antes de estudar o método.
