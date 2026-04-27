@@ -12,6 +12,8 @@
 
 John Caples foi vice-presidente da BBDO e passou décadas escrevendo e testando anúncios de mala direta. Seu anúncio mais famoso — *"They Laughed When I Sat Down at the Piano… But When I Started to Play!"* — é estudado até hoje. Caples foi um dos primeiros a documentar, em larga escala, quais tipos de headlines e estruturas de copy realmente convertiam mais.
 
+→ [Perfil completo de John Caples no Swiper](https://swiper.com.br/perfil/john-caples/) — trajetória e análise dos anúncios mais importantes que escreveu.
+
 ---
 
 ## Conceitos fundamentais
@@ -31,21 +33,23 @@ Caples estimava que a headline é responsável por até 80% do resultado de um a
 
 Caples categorizou os tipos de headline mais eficazes com base em décadas de testes:
 
-**A) Interesse próprio direto — o tipo mais confiável**
+**A) Interesse próprio direto — o tipo mais confiável**  
 Promete um benefício específico ao leitor.
 > *"Como dobrei minha renda em 12 meses trabalhando apenas 4 horas por dia"*
 
-**B) Notícia**
+**B) Notícia**  
 Apresenta algo novo. O cérebro humano é programado para prestar atenção em novidades.
 > *"Novo composto acelera a queima de gordura sem cortar carboidratos"*
 
-**C) Curiosidade**
+**C) Curiosidade**  
 Cria uma lacuna de informação que o leitor precisa fechar.
 > *"O que todo médico sabe sobre colesterol — mas nunca te conta na consulta"*
 
-**D) Interesse próprio + curiosidade combinados**
+**D) Interesse próprio + curiosidade combinados**  
 O mais poderoso quando bem executado.
 > *"Eles riram quando me sentei ao piano — mas quando comecei a tocar…"*
+
+→ [Veja o anúncio do piano de Caples analisado no Swiper](https://swiper.com.br/item/2652-garcom-frances-john-caples/) — como o copy que gerou essa headline funcionou linha por linha.
 
 ---
 
@@ -55,44 +59,29 @@ Caples testou extensivamente headlines criativas, inteligentes e bem escritas co
 
 **Regra prática:** Se a headline pode funcionar para qualquer produto do mercado, ela é fraca demais. Headlines fortes são específicas.
 
+→ [Como melhorar o headline do seu copy — guia no Swiper](https://swiper.com.br/como-melhorar-o-headline-do-seu-copy/) — princípios de Caples aplicados a copy moderno.
+
 ---
 
-### 4. Copy deve fluir — do mais forte para o suporte
+### 4. Os 100 títulos mais eficazes — a lista de Caples
+
+Caples compilou e analisou as 100 headlines mais eficazes de sua carreira. O padrão que emergiu: todas eram específicas, todas prometiam algo ao leitor certo, e a maioria usava número ou "como".
+
+→ [As 100 Melhores Headlines da História no Swiper](https://swiper.com.br/melhores-headlines-parte-1/) — análise das headlines que Caples e Schwab estudaram, com comentário sobre por que cada uma funciona. Disponível em cinco partes:  
+[Parte 1](https://swiper.com.br/melhores-headlines-parte-1/) · [Parte 2](https://swiper.com.br/melhores-headlines-parte-2/) · [Parte 3](https://swiper.com.br/melhores-headlines-parte-3/) · [Parte 4](https://swiper.com.br/melhores-headlines-parte-4/)
+
+---
+
+### 5. Copy deve fluir — do mais forte para o suporte
 
 Caples recomendava começar pelo argumento mais forte. Muitos copywriters "guardam o melhor para o final". Ele demonstrou que leitores frequentemente param no meio. O argumento mais poderoso deve aparecer cedo.
 
 ---
 
-### 5. Você está falando com um ser humano, não com uma audiência
-
-Assim como Hopkins, Caples enfatizou o tom de um para um. Palavras como "você" criam proximidade que "clientes" ou "consumidores" não criam.
-
----
-
-## Headlines de Caples para estudar
-
-| Headline | Por que funciona |
-|----------|-----------------|
-| *"They Laughed When I Sat Down at the Piano…"* | Narrativa + virada emocional + curiosidade máxima |
-| *"How a New Discovery Made a Plain Girl Beautiful"* | Benefício transformacional + especificidade |
-| *"Do You Make These Mistakes in English?"* | Pergunta + interesse próprio + medo de erro social |
-| *"To Men Who Want to Quit Work Someday"* | Segmentação precisa + promessa de liberdade |
-
----
-
 ## Obras para estudar
 
-| Obra | Observação |
-|------|-----------|
-| *Tested Advertising Methods* | Edições revisadas até os anos 1970. A mais completa referência prática de headlines |
-| *Making Ads Pay* | Foco em copy de mala direta; menos citado, mas igualmente denso |
+**Tested Advertising Methods (1932)** — revisado múltiplas vezes até os anos 1970. A referência mais completa sobre headlines e estrutura de copy direto. Caples documenta testes reais com resultados reais.
 
----
+**Making Ads Pay** — foco em copy de mala direta. Menos citado, mas denso em princípio prático.
 
-## Ver no Swiper
-
-[Perfil completo — John Caples](https://swiper.com.br/perfil/john-caples/) ·
-[Acervo de anúncios — John Caples](https://swiper.com.br/autor/john-caples/) ·
-[Anúncio real — Garçom Francês (Caples)](https://swiper.com.br/item/2652-garcom-frances-john-caples/) ·
-[Anúncio real — Personalidade Magnética (Caples)](https://swiper.com.br/item/2767-personalidade-magnetica-john-caples/) ·
-[As 100 Melhores Headlines — Victor Schwab (referência cruzada)](https://swiper.com.br/especial/as-100-melhores-headlines-segundo-victor-schwab/)
+→ [Acervo de anúncios reais de John Caples no Swiper](https://swiper.com.br/autor/john-caples/) — estude o copy antes de estudar a teoria.

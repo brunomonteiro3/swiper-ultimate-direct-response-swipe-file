@@ -36,7 +36,7 @@ Em *Triggers*, Sugarman catalogou 30 fatores psicológicos que influenciam decis
 
 | Trigger | Como aparece no copy |
 |---------|---------------------|
-| **Envolvimento** | Fazer perguntas, pedir que o leitor imagine, usar "você" | 
+| **Envolvimento** | Fazer perguntas, pedir que o leitor imagine, usar "você" |
 | **Curiosidade** | Lacunas de informação, perguntas sem resposta imediata |
 | **Urgência** | Razão legítima para agir agora |
 | **Autoridade** | Credenciais, certificações, anos de experiência |
@@ -84,15 +84,8 @@ Sugarman vendia produtos técnicos complexos — calculadoras, eletrônicos, rel
 
 ## Obras para estudar
 
-| Obra | Observação |
-|------|-----------|
-| *The Adweek Copywriting Handbook* | O mais completo — cobre estrutura, psicologia e exemplos reais |
-| *Triggers* | Foco específico nos 30 gatilhos psicológicos |
-| *Marketing Secrets of a Mail Order Maverick* | Casos práticos da JS&A Group |
+**The Adweek Copywriting Handbook (2006)** — o mais completo. Cobre estrutura, psicologia e exemplos reais dos anúncios que Sugarman escreveu e testou.
 
----
+**Triggers (1999)** — foco exclusivo nos 30 gatilhos psicológicos. Mais curto e direto.
 
-## Ver no Swiper
-
-[Acervo de copy longo e landing pages](https://swiper.com.br/landing/) ·
-[Análises de VSL com estrutura de slippery slide](https://swiper.com.br/video/)
+**Marketing Secrets of a Mail Order Maverick** — casos práticos da JS&A Group; Sugarman explicando os bastidores das campanhas que funcionaram.

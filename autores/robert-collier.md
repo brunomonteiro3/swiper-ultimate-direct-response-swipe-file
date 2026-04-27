@@ -10,7 +10,7 @@
 
 ## Quem foi
 
-Robert Collier foi editor e copywriter especializado em mala direta. Trabalhou para a Crowell Publishing Company e escreveu cartas de venda que geraram milhões de dólares em vendas de livros e produtos por correspondência. Sua obra principal é uma coleção de cartas reais com análise do que funcionou e por quê — um dos primeiros exemplos de "swipe file" publicado como livro.
+Robert Collier foi editor e copywriter especializado em mala direta. Trabalhou para a Crowell Publishing Company e escreveu cartas de venda que geraram milhões de dólares em vendas de livros e produtos por correspondência. Sua obra principal é uma coleção de cartas reais com análise do que funcionou e por quê — um dos primeiros exemplos de swipe file publicado como livro.
 
 ---
 
@@ -80,13 +80,4 @@ Collier era um dos maiores defensores do copy que cria imagens. Em vez de descre
 
 ## Obras para estudar
 
-| Obra | Observação |
-|------|-----------|
-| *The Robert Collier Letter Book* | Coleção de cartas reais com análise; leitura essencial para copy longo e e-mail |
-
----
-
-## Ver no Swiper
-
-[Acervo de e-mails de venda](https://swiper.com.br/email/) ·
-[Landing pages com copy longo](https://swiper.com.br/landing/)
+***The Robert Collier Letter Book* (1931)** — coleção de cartas reais com análise. Um dos primeiros swipe files da história. Leitura essencial para quem escreve e-mail, copy longo ou carta de venda. Collier não explica princípios em abstrato — ele mostra cartas que funcionaram e disseca o que funcionou.

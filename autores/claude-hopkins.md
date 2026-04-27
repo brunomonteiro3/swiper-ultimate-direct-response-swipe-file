@@ -12,6 +12,8 @@
 
 Claude Hopkins trabalhou em agências de publicidade no início do século XX e foi responsável por campanhas que transformaram marcas desconhecidas em líderes de mercado — Pepsodent, Schlitz, Palmolive, entre outras. Foi o primeiro a sistematizar o pensamento sobre propaganda como ciência, não arte. David Ogilvy disse que *Scientific Advertising* era o livro que todo profissional de publicidade deveria ler sete vezes.
 
+→ [Perfil completo de Claude Hopkins no Swiper](https://swiper.com.br/perfil/claude-hopkins/) — trajetória, campanhas e o que torna o pensamento dele ainda válido hoje.
+
 ---
 
 ## Conceitos fundamentais
@@ -33,6 +35,10 @@ Hopkins descobriu que afirmar um atributo que todos os produtos da categoria pos
 **Exemplo clássico:** Para a cerveja Schlitz, Hopkins escreveu sobre como as garrafas eram lavadas com vapor antes de serem usadas. Todos os fabricantes faziam isso. Mas apenas Schlitz comunicou. O resultado: Schlitz saiu do quinto lugar para o primeiro em participação de mercado.
 
 **Como usar hoje:** Pesquise o processo de produção, entrega ou desenvolvimento do seu produto. Se há uma etapa que garante qualidade e ninguém fala sobre ela, fale primeiro. O que é óbvio para quem fabrica é novidade para quem compra.
+
+→ [Como Hopkins transformou o Pepsodent numa marca global — análise no Swiper](https://swiper.com.br/3213-claude-hopkins-pepsodent/) — o caso mais estudado de pre-emptive claim na prática.
+
+→ [Por que usamos desodorante — e o papel do copy nessa história](https://swiper.com.br/porque-usamos-desodorante-copywriting/) — outro exemplo clássico do mesmo princípio que Hopkins aplicou ao Pepsodent.
 
 ---
 
@@ -61,16 +67,10 @@ Hopkins escrevia como se estivesse conversando com uma pessoa específica. Propa
 
 ## Obras para estudar
 
-| Obra | Formato | Observação |
-|------|---------|-----------|
-| *Scientific Advertising* | Livro | Domínio público — disponível gratuitamente online |
-| *My Life in Advertising* | Livro | Autobiografia com casos práticos |
+**Scientific Advertising (1923)** — domínio público, disponível gratuitamente online. O livro que Ogilvy mandava todo trainee ler sete vezes. Denso, curto, sem desperdício.
 
----
+**My Life in Advertising (1927)** — autobiografia com casos reais das campanhas de Hopkins. Leitura mais acessível que o Scientific e igualmente densa em princípio.
 
-## Ver no Swiper
+→ [Acervo de anúncios reais de Claude Hopkins no Swiper](https://swiper.com.br/autor/claude-hopkins/) — antes de ler a teoria, estude o copy que Hopkins produziu.
 
-[Perfil completo — Claude Hopkins](https://swiper.com.br/perfil/claude-hopkins/) ·
-[Análise real — Hopkins e o Pepsodent](https://swiper.com.br/3213-claude-hopkins-pepsodent/) ·
-[Acervo de anúncios — Claude Hopkins](https://swiper.com.br/autor/claude-hopkins/) ·
-[Como a pesquisa potencializa o copy](https://swiper.com.br/video/7128-pesquisa/)
+→ [Como a pesquisa potencializa o copy — vídeo no Swiper](https://swiper.com.br/video/7128-pesquisa/) — Hopkins foi o primeiro a tratar pesquisa como fundação do copy. Este vídeo conecta o princípio ao mercado atual.

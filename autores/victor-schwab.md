@@ -12,6 +12,8 @@
 
 Victor Schwab foi diretor criativo da Schwab & Beatty e um dos copywriters de mala direta mais bem-sucedidos da sua geração. Sua obra principal é considerada um dos manuais de copy mais práticos já escritos — clara, direta e cheia de exemplos analisados. Schwab não era tão prolífico em teoria quanto Schwartz ou tão dramático quanto Halbert, mas compensou com sistematização rigorosa do que funciona.
 
+→ [Perfil completo de Victor Schwab no Swiper](https://swiper.com.br/perfil/victor-schwab/) — trajetória e os anúncios mais importantes que escreveu.
+
 ---
 
 ## Conceitos fundamentais
@@ -45,12 +47,9 @@ Schwab foi dos primeiros a formalizar a diferença entre o que o produto é (car
 
 ### 3. Os 100 Títulos mais eficazes
 
-Schwab compilou e analisou 100 headlines de alta conversão em *How to Write a Good Advertisement*. Ao analisar os padrões, identificou que as mais eficazes compartilham algumas características:
+Schwab compilou e analisou 100 headlines de alta conversão em *How to Write a Good Advertisement*. O padrão que emergiu: as melhores headlines prometem algo específico e desejável, falam com um público identificável, usam números quando possível e criam lacuna de curiosidade ou prometem resolver um problema real.
 
-- Prometem algo específico e desejável
-- Falam diretamente com um público identificável
-- Usam números quando possível ("7 maneiras de…", "Em 21 dias…")
-- Criam lacuna de curiosidade ou prometem resolver um problema real
+→ [As 100 Melhores Headlines segundo Victor Schwab — análise completa no Swiper](https://swiper.com.br/especial/as-100-melhores-headlines-segundo-victor-schwab/) — todas as headlines com o comentário de Schwab sobre por que cada uma funciona. Leitura obrigatória antes de escrever qualquer headline.
 
 ---
 
@@ -77,15 +76,6 @@ Schwab observou que afirmações vagas criam desconfiança, enquanto afirmaçõe
 
 ## Obras para estudar
 
-| Obra | Observação |
-|------|-----------|
-| *How to Write a Good Advertisement* | O mais completo e prático; inclui análise de anúncios reais |
+**How to Write a Good Advertisement (1962)** — o mais completo e prático dos manuais clássicos. Inclui análise de anúncios reais com comentário sobre o que funciona e por quê. Excelente ponto de entrada para quem está começando a estudar direct response.
 
----
-
-## Ver no Swiper
-
-[Perfil completo — Victor Schwab](https://swiper.com.br/perfil/victor-schwab/) ·
-[Acervo de anúncios — Victor Schwab](https://swiper.com.br/autor/victor-schwab/) ·
-[As 100 Melhores Headlines segundo Victor Schwab](https://swiper.com.br/especial/as-100-melhores-headlines-segundo-victor-schwab/) ·
-[Grandes autores no Swiper](https://swiper.com.br/especial/grandes-autores-e-copywriters/)
+→ [Acervo de anúncios reais de Victor Schwab no Swiper](https://swiper.com.br/autor/victor-schwab/) — estude o copy real antes de estudar a teoria.

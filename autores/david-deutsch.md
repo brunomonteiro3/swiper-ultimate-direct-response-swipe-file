@@ -11,6 +11,8 @@
 
 David Deutsch é um dos copywriters de maior escala ativa no mercado americano. Trabalhou principalmente com Boardroom Inc. — a editora que publicou *Breakthrough Advertising* de Schwartz — e especializou-se em copy de saúde e finanças pessoais. É conhecido pela capacidade de escrever copy que escala: anúncios, e-mails e VSLs que geram volume consistente por meses ou anos sem exaurir o mercado.
 
+→ [Deutsch no Swiper — o vídeo mais completo sobre como ele pensa copy de escala](https://swiper.com.br/video/segredos-da-escala-david-deustch/)
+
 ---
 
 ## Conceitos fundamentais
@@ -30,6 +32,10 @@ Deutsch parte do mesmo princípio de Schwartz (Mass Desire), mas sistematizou o 
 |-------|------------|
 | "Melhore sua saúde cardiovascular" | "O protocolo de 7 minutos por dia que médicos japoneses usam para manter pressão arterial normal sem remédio — após os 60" |
 | "Aprenda a investir" | "Como aposentados estão gerando R$4.200/mês em dividendos com uma carteira de R$80.000 — sem precisar acompanhar o mercado todo dia" |
+
+Para entender a base teórica da Big Promise, o ponto de partida é Schwartz — especialmente Mass Desire e os Níveis de Consciência. Deutsch é a aplicação moderna desses princípios.
+
+→ [Os 5 Níveis de Consciência — a base que Deutsch aplica no copy de escala](https://swiper.com.br/5-niveis-consciencia/)
 
 ---
 
@@ -73,11 +79,12 @@ Deutsch diferencia copy que converte bem no lançamento (novidade) de copy que m
 
 Assim como Hopkins e Halbert, Deutsch é radical sobre pesquisa antes de escrever. Ele é conhecido por estudar o mercado, os estudos científicos e os avatares por semanas antes de escrever uma linha. O argumento: promessas vagas vêm de pesquisa rasa. Big Promises vêm de entender o mercado em profundidade suficiente para identificar o ângulo que ninguém usou ainda.
 
+→ [Como a pesquisa potencializa o copy — vídeo no Swiper](https://swiper.com.br/video/7128-pesquisa/) — o processo de pesquisa que Hopkins criou e Deutsch modernizou.
+
 ---
 
-## Ver no Swiper
+## Para aprofundar
 
-[David Deutsch — segredos da escala (vídeo)](https://swiper.com.br/video/segredos-da-escala-david-deustch/) ·
-[Acervo de anúncios — David Deutsch](https://swiper.com.br/autor/david-deutsch/) ·
-[Breakthrough Advertising — base teórica](https://swiper.com.br/video/breakthrough-advertising-parte-1/) ·
-[Os 5 Níveis de Consciência — fundação do método](https://swiper.com.br/5-niveis-consciencia/)
+→ [Acervo de anúncios de David Deutsch no Swiper](https://swiper.com.br/autor/david-deutsch/) — estude o copy real antes de estudar o método.
+
+→ [Breakthrough Advertising — a base teórica de onde Deutsch parte](https://swiper.com.br/video/breakthrough-advertising-parte-1/) — Deutsch trabalhou com a editora que publicou o livro de Schwartz. Entender Schwartz é entender a fundação do método de Deutsch.

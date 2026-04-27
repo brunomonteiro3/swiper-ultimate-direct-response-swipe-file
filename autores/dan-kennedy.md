@@ -3,7 +3,7 @@
 > "Não existe cliente ruim. Existe cliente errado. Encontre os certos e elimine os outros."
 
 **Período ativo:** 1980–hoje  
-**Obras principais:** *The Ultimate Sales Letter* (1990) · *Magnetic Marketing* (1993) · *No B.S.* series  
+**Obras principais:** *The Ultimate Sales Letter* (1990) · *Magnetic Marketing* (1993) · série *No B.S.*  
 **Influência:** Alta — o principal nome em direct response aplicado ao marketing de pequenas e médias empresas
 
 ---
@@ -35,26 +35,24 @@ Kennedy é o autor mais vocal sobre o princípio de cobrar mais e aceitar menos 
 
 ---
 
-### 3. A Carta de Vendas Definitiva — estrutura
+### 3. A Carta de Vendas Definitiva — estrutura PASTOR
 
 Em *The Ultimate Sales Letter*, Kennedy apresentou uma estrutura de copy longo que permanece válida para landing pages, e-mails e VSLs:
 
 ```
-P — Problem (problema)
-A — Agitate (amplificar a dor)
-S — Solve (apresentar a solução)
-O — Objections (responder objeções)
-S — Social proof (prova social)
-O — Offer (apresentar a oferta)
-R — Risk reversal (garantia)
-C — Close (CTA)
+P — Problem   (identificar o problema)
+A — Agitate   (amplificar a dor)
+S — Solve     (apresentar a solução)
+T — Testimony (prova social)
+O — Offer     (apresentar a oferta)
+R — Response  (CTA + garantia)
 ```
 
 ---
 
 ### 4. Urgência e escassez reais
 
-Kennedy diferencia urgência legítima de urgência falsa — e é um crítico ferrenho da segunda. Prazos que sempre se renovam, estoques que nunca acabam de verdade. Para Kennedy, o comprador moderno detecta urgência falsa e perde confiança.
+Kennedy diferencia urgência legítima de urgência falsa — e é crítico ferrenho da segunda. Prazos que sempre se renovam, estoques que nunca acabam de verdade. Para Kennedy, o comprador moderno detecta urgência falsa e perde confiança no vendedor inteiro.
 
 **Formas de criar urgência real:**
 - Prazo vinculado a um evento real (turma que fecha, evento ao vivo)
@@ -78,7 +76,7 @@ Kennedy usa extensivamente o argumento da consequência: mostrar ao comprador o 
 
 ### 6. Nichos — especialização supera generalização
 
-Kennedy insiste que copywriter e empresas generalistas têm dificuldade de cobrar mais e converter bem. Especialistas em nicho específico criam autoridade mais rápido, geram copy mais preciso e cobram mais.
+Kennedy insiste que copywriters e empresas generalistas têm dificuldade de cobrar mais e converter bem. Especialistas em nicho específico criam autoridade mais rápido, geram copy mais preciso e cobram mais.
 
 **Por quê importa para copy:** Copy para um nicho específico usa linguagem, dores e sonhos específicos daquele grupo. Copy genérico não conecta com ninguém de verdade.
 
@@ -86,16 +84,10 @@ Kennedy insiste que copywriter e empresas generalistas têm dificuldade de cobra
 
 ## Obras para estudar
 
-| Obra | Observação |
-|------|-----------|
-| *The Ultimate Sales Letter* | Estrutura completa de carta de venda; prático e direto |
-| *Magnetic Marketing* | Estratégia de atração e posicionamento |
-| *No B.S. Direct Marketing* | Direct response aplicado a negócios locais e PMEs |
-| *No B.S. Sales Success* | Princípios de vendas aplicados a copy |
+**The Ultimate Sales Letter (1990)** — estrutura completa de carta de venda. Prático e direto. O livro mais acessível de Kennedy para copywriters.
 
----
+**Magnetic Marketing (1993)** — estratégia de atração e posicionamento. Como construir um sistema que traz clientes em vez de persegui-los.
 
-## Ver no Swiper
+**No B.S. Direct Marketing** — direct response aplicado a negócios locais e PMEs. Kennedy transferindo princípios de mala direta para o mercado de massa.
 
-[Acervo de landing pages e copy longo](https://swiper.com.br/landing/) ·
-[Análise de copy por nicho](https://swiper.com.br/nicho/)
+**No B.S. Sales Success** — princípios de vendas aplicados a copy. Kennedy conectando o processo de vendas presencial ao copy escrito.

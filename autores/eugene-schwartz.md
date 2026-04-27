@@ -12,6 +12,8 @@
 
 Eugene Schwartz escreveu alguns dos anúncios de maior resposta da história americana — em nichos como saúde, finanças e auto-ajuda. Foi também colecionador de arte e palestrante cult em eventos de copywriters. Sua obra principal, *Breakthrough Advertising*, ficou fora de catálogo por décadas e chegou a ser vendida por centenas de dólares em sebos. Hoje é o texto de referência obrigatório em qualquer formação séria de copy.
 
+→ [Leia o perfil completo de Schwartz no Swiper](https://swiper.com.br/perfil/eugene-schwartz-o-mestre-por-tras-dos-5-niveis-de-consciencia/) — quem foi, como pensava, os anúncios que escreveu.
+
 ---
 
 ## Conceitos fundamentais
@@ -29,6 +31,8 @@ Schwartz identificou que o comprador não é sempre o mesmo. Ele está em estág
 | **Mais consciente** | Conhece, está quase convencido | Oferta, preço, urgência, bônus. |
 
 **Aplicação prática:** Antes de escrever uma linha, defina em qual nível está seu avatar hoje. Um anúncio de cold traffic para um produto novo começa no nível 1 ou 2. Um e-mail para lista quente começa no nível 4 ou 5.
+
+→ [Análise completa dos 5 Níveis de Consciência no Swiper](https://swiper.com.br/5-niveis-consciencia/) — com exemplos práticos de como identificar o nível do seu mercado e como entrar na conversa certa.
 
 ---
 
@@ -62,33 +66,24 @@ Isso muda como você pesquisa. Em vez de perguntar "o que meu produto faz?", voc
 
 **Exemplo:** Um suplemento não vende cápsulas. Ele vende a fantasia de ser a versão mais saudável de si mesmo sem precisar abandonar a vida que já tem.
 
+→ [Veja um anúncio real de Schwartz analisado no Swiper](https://swiper.com.br/item/2471-travesseiro-eugene-schwartz/) — estude como ele aplicou esses princípios na prática, linha por linha.
+
 ---
 
 ### 4. Breakthrough — A Big Idea que abre mercado
 
-Uma Big Idea não é um slogan. É uma afirmação que:
-- Conecta o produto a um desejo massivo
-- Parece nova — mesmo que o produto não seja
-- Cria uma moldura que só o seu produto preenche
+Uma Big Idea não é um slogan. É uma afirmação que conecta o produto a um desejo massivo, parece nova — mesmo que o produto não seja — e cria uma moldura que só o seu produto preenche.
 
 Schwartz chamou de *breakthrough* o momento em que copy consegue reposicionar um produto de forma que o mercado nunca mais vê a categoria da mesma forma.
 
 ---
 
-## Obras para estudar
+## *Breakthrough Advertising* — o livro
 
-| Obra | Formato | Onde encontrar |
-|------|---------|---------------|
-| *Breakthrough Advertising* | Livro | Edição física (BoardroomInc); PDFs circulam online |
-| Palestras gravadas dos anos 1990 | Vídeo | YouTube — buscar "Eugene Schwartz lecture" |
+O texto mais denso e mais citado de direct response. Cobre Mass Desire, os cinco níveis, sofisticação de mercado e como construir uma Big Idea do zero. Ficou décadas fora de catálogo e chegou a ser vendido por US$ 900 em sebos online.
 
----
+→ [Análise do *Breakthrough Advertising* no Swiper](https://swiper.com.br/video/breakthrough-advertising-parte-1/) — se você ainda não leu o livro, começa aqui. Se já leu, assista para consolidar o que ficou solto.
 
-## Ver no Swiper
+→ [Exercício prático de Schwartz para criar headlines](https://swiper.com.br/3290-exercicio-eugene-schwartz/) — a técnica que ele ensinava em palestras e que poucos conhecem.
 
-[Perfil completo — Eugene Schwartz](https://swiper.com.br/perfil/eugene-schwartz-o-mestre-por-tras-dos-5-niveis-de-consciencia/) ·
-[Exercício de Eugene Schwartz para criar headlines](https://swiper.com.br/3290-exercicio-eugene-schwartz/) ·
-[Os 5 Níveis de Consciência](https://swiper.com.br/5-niveis-consciencia/) ·
-[Anúncio real — Eugene Schwartz](https://swiper.com.br/item/2471-travesseiro-eugene-schwartz/) ·
-[Grandes autores no Swiper](https://swiper.com.br/especial/grandes-autores-e-copywriters/) ·
-[Breakthrough Advertising — análise parte 1](https://swiper.com.br/video/breakthrough-advertising-parte-1/)
+→ [Acervo de anúncios escritos por Schwartz](https://swiper.com.br/autor/eugene-schwartz/) — estude o copy real antes de estudar a teoria.

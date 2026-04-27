@@ -12,6 +12,8 @@
 
 Gary Halbert foi o copywriter mais famoso de sua geração — e provavelmente o mais polarizador. Escreveu a mala direta mais lucrativa da história americana (o "coat of arms" letter, que gerou mais de 600 milhões de envios). Escreveu *The Boron Letters* enquanto cumpria pena na prisão federal de Boron, Califórnia — cartas endereçadas ao seu filho Bond. Essas cartas são o principal legado de Halbert: diretas, humanas, cheias de técnica e contexto de vida.
 
+→ [Perfil completo de Gary Halbert no Swiper](https://swiper.com.br/perfil/gary-halbert-o-elvis-presley-do-copywriting/) — quem foi, por que era chamado de "o Elvis Presley do copywriting", e os anúncios que definiram sua carreira.
+
 ---
 
 ## Conceitos fundamentais
@@ -37,6 +39,8 @@ Halbert desprezava copy corporativo, distante e formal. Ele escrevia como uma pe
 **Por quê funciona:** Pessoas compram de pessoas. Um tom humano baixa a resistência antes mesmo de o argumento começar.
 
 **Cuidado:** Tom pessoal não é tom amador. Halbert era técnico por baixo da informalidade. Cada parágrafo tinha função. A conversa era estratégica.
+
+→ [Análise do anúncio do perfume Tova — copy de Halbert com tom pessoal na prática](https://swiper.com.br/2294-gary-halbert-perfume-tova/) — veja como Halbert transformou um produto de nicho em campanha de escala com uma carta pessoal.
 
 ---
 
@@ -70,22 +74,20 @@ Halbert era contrário à urgência fabricada — prazos falsos, estoques que nu
 
 ---
 
-## The Boron Letters
+## Anúncios para estudar
 
-As cartas escritas para o filho Bond são o melhor material para estudar Halbert. Cobrem:
-- Como pesquisar um mercado
-- Como estruturar uma carta de venda
-- Como pensar sobre copy no nível estratégico
-- Filosofia de vida de um copywriter
+O Coat of Arms Letter é o ponto de partida obrigatório — a carta de venda mais distribuída da história americana, com mais de 600 milhões de envios. Halbert escreveu sobre a árvore genealógica da família do destinatário, personalizando cada envio com o sobrenome. Copy simples, oferta irresistível, lista certa.
 
-**Disponível:** Domínio público online. Buscar "The Boron Letters Gary Halbert PDF".
+→ [Coat of Arms — o anúncio mais distribuído da história, analisado no Swiper](https://swiper.com.br/item/2321-coat-of-arms-gary-halbert/)
+
+→ [Carta do Governo EUA — outro clássico de Halbert no Swiper](https://swiper.com.br/item/2333-governo-eua-gary-halbert/)
+
+→ [Palestra de Gary Halbert — vídeo no Swiper](https://swiper.com.br/video/3852-gary-halbert-palestra/) — Halbert ao vivo, ensinando os princípios que usava em suas campanhas.
 
 ---
 
-## Ver no Swiper
+## *The Boron Letters*
 
-[Perfil completo — Gary Halbert](https://swiper.com.br/perfil/gary-halbert-o-elvis-presley-do-copywriting/) ·
-[Acervo de anúncios — Gary Halbert](https://swiper.com.br/autor/gary-halbert/) ·
-[Análise real — Halbert e o perfume Tova](https://swiper.com.br/2294-gary-halbert-perfume-tova/) ·
-[Anúncio real — Coat of Arms (o mais distribuído da história)](https://swiper.com.br/item/2321-coat-of-arms-gary-halbert/) ·
-[Anúncio real — Carta do Governo EUA](https://swiper.com.br/item/2333-governo-eua-gary-halbert/)
+As cartas escritas para o filho Bond cobrem: como pesquisar um mercado, como estruturar uma carta de venda, como pensar sobre copy no nível estratégico, e filosofia de vida de um copywriter. Domínio público online — buscar "The Boron Letters Gary Halbert PDF".
+
+→ [Acervo de anúncios reais de Gary Halbert no Swiper](https://swiper.com.br/autor/gary-halbert/) — estude o copy antes de estudar a teoria.

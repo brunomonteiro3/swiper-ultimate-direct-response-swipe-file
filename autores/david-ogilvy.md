@@ -12,6 +12,8 @@
 
 David Ogilvy fundou a Ogilvy & Mather em Nova York em 1948 e a transformou em uma das maiores agências do mundo. Antes disso, trabalhou como vendedor de fogões na Escócia, pesquisador na Gallup e espião britânico durante a Segunda Guerra. Essa combinação — vendas, pesquisa, persuasão — moldou uma visão única sobre publicidade. Ogilvy foi um dos poucos profissionais de agência tradicional a defender abertamente que propaganda só existe para vender.
 
+→ [Perfil completo de David Ogilvy no Swiper](https://swiper.com.br/perfil/david-ogilvy/) — trajetória, campanhas e a visão de Ogilvy sobre o que separa anúncio de propaganda.
+
 ---
 
 ## Conceitos fundamentais
@@ -28,10 +30,12 @@ Ogilvy era obcecado com pesquisa. Antes de escrever um anúncio, ele estudava o 
 
 Ogilvy desafiou a crença de que headlines deveriam ser curtas. Em seus testes, headlines com 10 palavras ou mais frequentemente superavam as de 3 ou 4 palavras — desde que as palavras extras entregassem informação relevante, não decoração.
 
-**Exemplo:** O headline do anúncio do Rolls-Royce escrito por Ogilvy tinha 18 palavras:
+O headline do anúncio do Rolls-Royce tinha 18 palavras:
 > *"At 60 miles an hour the loudest noise in this new Rolls-Royce comes from the electric clock."*
 
 Não é criativo. É específico, é sensorial e cria uma imagem instantânea de silêncio e luxo.
+
+→ [Análise do anúncio do Rolls-Royce de Ogilvy no Swiper](https://swiper.com.br/2626-david-ogilvy-rolls-royce/) — linha por linha, como uma headline de 18 palavras se tornou a mais estudada da história da publicidade.
 
 ---
 
@@ -49,6 +53,8 @@ Ogilvy é frequentemente citado como o pai da publicidade de marca, mas ele semp
 
 Sua tese: uma campanha pode construir marca e gerar venda direta ao mesmo tempo. O erro é tratar os dois como mutuamente exclusivos.
 
+→ [Como Ogilvy criou uma marca nacional do dia para a noite — caso real no Swiper](https://swiper.com.br/como-ogilvy-marca-nacional-do-dia-para-noite/) — o caso mais citado de Ogilvy sobre posicionamento de marca via copy direto.
+
 ---
 
 ### 5. O consumidor não é idiota — ela é sua esposa
@@ -63,28 +69,10 @@ Ogilvy acreditava que propaganda boa não é propaganda que força atenção —
 
 ---
 
-## Anúncios para estudar
-
-| Anúncio | Produto | Por que é referência |
-|---------|---------|---------------------|
-| *"At 60 mph…"* | Rolls-Royce | Especificidade sensorial como posicionamento |
-| *"The man in the Hathaway shirt"* | Camisas Hathaway | Personagem recorrente criando identidade de marca |
-| *"How to create advertising that sells"* | Ogilvy & Mather (autopromoção) | Copy longo com princípios revelados como gancho |
-
----
-
 ## Obras para estudar
 
-| Obra | Observação |
-|------|-----------|
-| *Confessions of an Advertising Man* | Mais narrativo; visão de negócio e postura profissional |
-| *Ogilvy on Advertising* | Mais prático; cheio de exemplos visuais e princípios diretos |
+**Confessions of an Advertising Man (1963)** — mais narrativo; visão de negócio e postura profissional. Onde Ogilvy conta como construiu a agência e o que aprendeu no processo.
 
----
+**Ogilvy on Advertising (1983)** — mais prático; cheio de exemplos visuais e princípios diretos. O livro que a maioria cita.
 
-## Ver no Swiper
-
-[Perfil completo — David Ogilvy](https://swiper.com.br/perfil/david-ogilvy/) ·
-[Acervo de anúncios — David Ogilvy](https://swiper.com.br/autor/david-ogilvy/) ·
-[Análise real — Ogilvy e o Rolls-Royce](https://swiper.com.br/2626-david-ogilvy-rolls-royce/) ·
-[Como Ogilvy criou uma marca nacional do dia para a noite](https://swiper.com.br/como-ogilvy-marca-nacional-do-dia-para-noite/)
+→ [Acervo de anúncios reais de David Ogilvy no Swiper](https://swiper.com.br/autor/david-ogilvy/) — estude o que Ogilvy produziu antes de ler o que ele escreveu sobre produzir.
