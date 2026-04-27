@@ -36,6 +36,7 @@ Cada seção cobre um elemento do funil de vendas. Cada artigo conecta a teoria 
 ## Índice
 
 - [VSL (Video Sales Letter)](#-vsl--video-sales-letter)
+- [Grandes Autores](#-grandes-autores)
 - [Anúncios](#-anúncios) *(em breve)*
 - [E-mails](#-e-mails) *(em breve)*
 - [Landing Pages](#-landing-pages) *(em breve)*
@@ -66,6 +67,31 @@ Cada seção cobre um elemento do funil de vendas. Cada artigo conecta a teoria 
 [Lead de $10M](https://swiper.com.br/video/7774-lead/) ·
 [David Deutsch](https://swiper.com.br/video/segredos-da-escala-david-deustch/) ·
 [Otimização com Gustavo Bassi](https://swiper.com.br/video/5405-otimizando/)
+
+---
+
+## 📚 Grandes Autores
+
+> Os copywriters e pensadores que construíram a base de tudo que funciona hoje. Do pré-digital ao copy moderno — os princípios são os mesmos.
+
+📄 [Índice de autores →](./autores/README.md)
+
+| Autor | Principal contribuição | Arquivo |
+|-------|----------------------|---------|
+| **Eugene Schwartz** | Níveis de consciência, sofisticação de mercado, Big Idea | [eugene-schwartz.md](./autores/eugene-schwartz.md) |
+| **Claude Hopkins** | Publicidade científica, pre-emptive claim, teste | [claude-hopkins.md](./autores/claude-hopkins.md) |
+| **John Caples** | Headlines testadas, interesse próprio, copy de mala direta | [john-caples.md](./autores/john-caples.md) |
+| **Gary Halbert** | Starving crowd, tom pessoal, pesquisa de avatar | [gary-halbert.md](./autores/gary-halbert.md) |
+| **David Ogilvy** | Pesquisa, copy longo, marca + resposta direta | [david-ogilvy.md](./autores/david-ogilvy.md) |
+| **Joe Sugarman** | Slippery slide, triggers psicológicos, copy de produto | [joe-sugarman.md](./autores/joe-sugarman.md) |
+| **Victor Schwab** | AIDA aplicada, benefícios vs características, especificidade | [victor-schwab.md](./autores/victor-schwab.md) |
+| **Robert Collier** | Entrar na conversa do leitor, carta de venda, apelo emocional | [robert-collier.md](./autores/robert-collier.md) |
+| **Dan Kennedy** | Magnetic marketing, nicho, carta de venda definitiva | [dan-kennedy.md](./autores/dan-kennedy.md) |
+| **David Deutsch** | Big Promise, mecanismo único, copy que escala | [david-deutsch.md](./autores/david-deutsch.md) |
+
+**Ver no Swiper:**
+[Breakthrough Advertising](https://swiper.com.br/video/breakthrough-advertising-parte-1/) ·
+[David Deutsch na prática](https://swiper.com.br/video/segredos-da-escala-david-deustch/)
 
 ---
 
