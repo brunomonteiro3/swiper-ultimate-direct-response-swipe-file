@@ -37,6 +37,7 @@ Cada seção cobre um elemento do funil de vendas. Cada artigo conecta a teoria 
 
 - [VSL (Video Sales Letter)](#-vsl--video-sales-letter)
 - [Grandes Autores](#-grandes-autores)
+- [Livros](#-livros)
 - [Anúncios](#-anúncios) *(em breve)*
 - [E-mails](#-e-mails) *(em breve)*
 - [Landing Pages](#-landing-pages) *(em breve)*
@@ -92,6 +93,28 @@ Cada seção cobre um elemento do funil de vendas. Cada artigo conecta a teoria 
 **Ver no Swiper:**
 [Breakthrough Advertising](https://swiper.com.br/video/breakthrough-advertising-parte-1/) ·
 [David Deutsch na prática](https://swiper.com.br/video/segredos-da-escala-david-deustch/)
+
+---
+
+## 📖 Livros
+
+> Os livros que todo copywriter de direct response precisa ter lido — com os conceitos que importam e conexões diretas ao acervo do Swiper.
+
+📄 [Índice de livros →](./livros/README.md)
+
+| Livro | Autor | Principal contribuição | Arquivo |
+|-------|-------|----------------------|---------|
+| **Breakthrough Advertising** | Eugene Schwartz | Mass Desire, 5 Níveis de Consciência, Sofisticação de Mercado | [breakthrough-advertising.md](./livros/breakthrough-advertising.md) |
+| **Cash Copy** | Jeffrey Lant | Copy orientado ao benefício, verbos de ação, urgência | [cash-copy.md](./livros/cash-copy.md) |
+| **Wizard of Ads** | Roy H. Williams | Cérebro direito, ritmo de copy, Janela de Oportunidade | [wizard-of-ads.md](./livros/wizard-of-ads.md) |
+| **The Brain Audit** | Sean D'Souza | 7 Sacos, objeções como estrutura, reversão de risco | [brain-audit.md](./livros/brain-audit.md) |
+| **Power Copywriting** | H.G. Lewis | Força de palavra, bullets, CTA com clareza antes de urgência | [power-copywriting.md](./livros/power-copywriting.md) |
+| **Crypto Copywriting Secrets** | Ben Settle | E-mail diário, tom polarizador, estrutura de "segredo" | [crypto-copywriting-secrets.md](./livros/crypto-copywriting-secrets.md) |
+
+**Ver no Swiper:**
+[Análise de Breakthrough Advertising](https://swiper.com.br/video/breakthrough-advertising-parte-1/) ·
+[Acervo de e-mails](https://swiper.com.br/email/) ·
+[Landing pages analisadas](https://swiper.com.br/landing/)
 
 ---
 
